@@ -805,13 +805,13 @@ return /******/ (function(modules) { // webpackBootstrap
 	   * @property {array} strings strings to be typed
 	   * @property {string} stringsElement ID of element containing string children
 	   */
-	  strings: ['These are the default values...', 'Ask not what your country can do for you. Ask what you can do for your country!', ' Let’s remember all past heroes who fought for our freedom and unity', 'I love my India!'],
+	  strings: ['These are the default values...', 'Out of every single Independence Day celebration we’ve had - this one has by far been the most emotional.', 'Because we are not doing this mission because it’s merely 15th August, we are doing it because after the pandemic our country (like all others) is in the middle of a national crisis.', 'It’s easy to blame authorities for everything which goes wrong, what’s much tougher is collectively taking responsibility as citizens and looking out for our most vulnerable countrymen.', 'Dear India - we love you, and will protect you with all our heart. #Mission30M is here.'],
 	  stringsElement: null,
 
 	  /**
 	   * @property {number} typeSpeed type speed in milliseconds
 	   */
-	  typeSpeed: 0,
+	  typeSpeed: 100,
 
 	  /**
 	   * @property {number} startDelay time before typing starts in milliseconds
@@ -821,7 +821,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	  /**
 	   * @property {number} backSpeed backspacing speed in milliseconds
 	   */
-	  backSpeed: 0,
+	  backSpeed: 100,
 
 	  /**
 	   * @property {boolean} smartBackspace only backspace what doesn't match the previous string

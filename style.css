@@ -5,8 +5,8 @@ ul{
 
 ul li {
   list-style: none;
-  height:33.33vh;
-  width: 100vw;
+  height:31.70vh;
+  width: 99.45vw;
 }
 
 #orange,#white,#green{
@@ -28,8 +28,4 @@ ul li {
 
 #green{
   background-color: green;
-}
-
-h1{
-
 }
