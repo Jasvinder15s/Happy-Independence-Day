@@ -805,7 +805,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	   * @property {array} strings strings to be typed
 	   * @property {string} stringsElement ID of element containing string children
 	   */
-	  strings: ['These are the default values...', 'To all my Fellow Indians', 'From Jasvinder Singh', 'Support and Contribute @rha_india #Mission30M', '#AbhiNaiTohKabhi', 'To contribute contact me @jvsinghk Instagram handle', 'Made with Love to celebrate this Independence Day Developer Style'],
+	  strings: ['These are the default values...', 'My India', 'Made with Love by Jasvinder Singh to celebrate in Developer Style'],
 	  stringsElement: null,
 
 	  /**
